@@ -4,11 +4,4 @@
  * Facebook: [Nguyễn Ngọc Hiếu](https://www.facebook.com/TH.HUST)
  * Email: [hieunguyenngoc0206@gmail.com](mailto:hieunguyenngoc0206@gmail.com)
  * PhoneNumber: [0981042418](tel://0981042418)
- * Avatar: ![thumbnail](http://sanslab.vn/UploadedFiles/files/anh_gai.jpg)
- (setq markdown-xhtml-header-content
-      "<style type='text/css'>
- img[alt=thumbnail] {
-   width:150px;
-   height:100px;
-}
-</style>")
+ 
